@@ -1,16 +1,24 @@
-### Hi there 👋
+## 조인혁    
 
-<!--
-**dsg5314/dsg5314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Developer
+> Documents(Mermaid, markdown)  
+> C, Java, Python, DB, Dart, Js  
+> SpringBoot, Flutter, Next.js
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**1999.03.26**  
+▶️ **portfolio**&nbsp;&nbsp;&nbsp;[https://0326.notion.site](https://0326.notion.site/e646e86ba9d0440683142ed21132b2eb?pvs=4)  
+▶️ **email**&nbsp;&nbsp;&nbsp;dlsgur5314@naver.com  
+▶️ **github**&nbsp;&nbsp;&nbsp;http://github.com/NaHwangje  
+▶️ **blog**&nbsp;&nbsp;&nbsp;https://blog.naver.com/na03266
+
+<br/>
+
+> 삽질 잘하는 개발자
+
+<img src="https://github-readme-stats.vercel.app/api?username=NaHwangje&theme=default&show_icons=true" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaHwangje&layout=compact&theme=default" height="200"></a>
+
+<br/>
+
+[Show Details...](https://github.com/NaHwangje/Portfolio-Dev.Hwangje)  
