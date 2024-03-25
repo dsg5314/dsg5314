@@ -1,9 +1,8 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=dsg5314&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0074D9&text=dsg5314&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70)
 ####  :wave: Welcome dsg5314 github !
 
-  
  <br/>
  <br/>
   
