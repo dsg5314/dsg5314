@@ -1,7 +1,7 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=dsg5314&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70)
-####  :wave: Welcome dsg5314 github profile !
+####  :wave: Welcome dsg5314 github !
 
   
  <br/>
@@ -10,7 +10,12 @@
 ####  :clipboard: Once I've Used 
   
  <br/>
-  
+
+ 
+   <br/>
+   <br/>
+ 
+#### :pencil2: Studying
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -23,14 +28,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
-   <br/>
-   <br/>
- 
-#### :pencil2: Study log
  
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+
 </div>
